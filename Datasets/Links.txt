@@ -1,0 +1,7 @@
+https://nationalmap.gov.au/ > Infrastructure > Waste Management FacilitiesL
+
+https://data.worldbank.org/indicator/SE.ADT.1524.LT.ZS > Literacy rate
+
+https://data.worldbank.org/indicator/SE.PRM.ENRL.TC.ZS > Pupil-teacher ratio
+
+https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS > unemployment rate
